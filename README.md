@@ -15,8 +15,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-About this script for Lenovo System X365 M5
-
 This script will check the file size giving output in B(ytes),K(Bytes),M(egaBytes),G(igaBytes). 
 Moreover, it is possible to set a thresold for warning and critical file size.
 ## Examples
